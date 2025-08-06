@@ -1,0 +1,14 @@
+body {
+  background-color: blanchedalmond;
+}
+
+h1 {
+  color: white;
+  font-family: inherit;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
