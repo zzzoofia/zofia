@@ -1,9 +1,10 @@
 body {
+  color: saddlebrown;
   background-color: blanchedalmond;
 }
 
 h1 {
-  color: white;
+  color: saddlebrown;
   font-family: inherit;
   text-align: center;
 }
